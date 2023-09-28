@@ -36,4 +36,4 @@ npm start
 
 ## Live Link for the website:
 
-[Click here](https://stack-overflow-manoj.netlify.app/)
+[Click here](#)
