@@ -37,3 +37,7 @@ npm start
 ## Live Link for the website:
 
 [Click here](https://stack-overflow-ritzz.netlify.app/)
+
+## Credits
+
+This website is built with the help of full stack web development course from [NullClass](https://nullclass.com/)
