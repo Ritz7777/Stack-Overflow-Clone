@@ -36,4 +36,4 @@ npm start
 
 ## Live Link for the website:
 
-[Click here](#)
+[Click here](https://stack-overflow-ritzz.netlify.app/)
